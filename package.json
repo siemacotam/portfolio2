@@ -1,5 +1,5 @@
 {
-  "homepage ": "http://siemacotam.github.io/portfolio2",
+  "homepage ": "/subdir/",
   "name": "portfolio2",
   "version": "0.1.0",
   "private": true,
